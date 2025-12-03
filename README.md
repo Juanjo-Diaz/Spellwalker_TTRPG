@@ -1,7 +1,7 @@
 ## Spellwalker TTRPG
 
 
-![SpellwalkerTitle](./files/img/SpellwalkerTitle.png)
+![SpellwalkerTitle](./files/img/spellwalker_title.png)
 
 
 
