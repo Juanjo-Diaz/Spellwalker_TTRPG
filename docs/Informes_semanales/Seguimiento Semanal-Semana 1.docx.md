@@ -40,10 +40,10 @@ He creado el repositorio de github, donde he subido una descripción básica del
 
 También he creado el logo de SpellWalker, el cual funcionará Tanto cómo logo para ambas aplicaciones, cómo splash de la misma.
 
-**Integrante: Sergio Sabater García**
+# **Integrante: Sergio Sabater García**
 
 He recopilado información de Docker Desktop, el cual vamos a usar para hacer un contenedor de la aplicación de escritorio.
 
-**Integrante: Carlos Martínez Gil**
+# **Integrante: Carlos Martínez Gil**
 
 Yo he investigado cómo instalar XAMPP, que es la base de datos que vamos a usar, tan solo nos falta saber cómo subirla a la red. 
