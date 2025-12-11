@@ -1,0 +1,3 @@
+[[Rápido]]
+[[Bestial]]
+[[Evocación]]

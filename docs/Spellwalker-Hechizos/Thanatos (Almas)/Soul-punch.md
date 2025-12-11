@@ -1,0 +1,3 @@
+[[Thanatos]]
+[[Evocación]]
+[[Rápido]]

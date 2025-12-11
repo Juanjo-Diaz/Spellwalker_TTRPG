@@ -1,0 +1,4 @@
+[[Thanatos]]
+[[Invocación]]
+[[Lento]]
+[[Concentración]]

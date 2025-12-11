@@ -1,0 +1,2 @@
+[[Nekros]]
+[[Evocación]]

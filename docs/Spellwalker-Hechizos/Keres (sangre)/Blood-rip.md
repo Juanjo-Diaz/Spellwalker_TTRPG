@@ -1,0 +1,4 @@
+[[Keres]]
+[[Contínuo]]
+[[Evocación]]
+[[Abjuración]]

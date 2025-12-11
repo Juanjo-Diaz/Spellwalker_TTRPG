@@ -1,0 +1,5 @@
+[[Sacrilus]]
+[[Cargable]]
+[[Contínuo]]
+[[Abjuración]]
+[[Evocación]]

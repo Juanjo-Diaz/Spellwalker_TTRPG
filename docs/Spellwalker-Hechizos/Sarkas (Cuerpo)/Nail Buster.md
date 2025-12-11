@@ -1,0 +1,4 @@
+[[Sarkas]]
+[[Rápido]]
+[[Evocación]]
+[[Abjuración]]

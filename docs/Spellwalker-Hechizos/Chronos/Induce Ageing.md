@@ -1,0 +1,5 @@
+[[Abjuración]]
+[[Chronos]]
+[[lento]]
+[[Concentración]]
+[[Contínuo]]

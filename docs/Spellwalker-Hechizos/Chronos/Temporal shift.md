@@ -1,0 +1,3 @@
+[[Rápido]]
+[[Chronos]]
+[[Transmutación]]

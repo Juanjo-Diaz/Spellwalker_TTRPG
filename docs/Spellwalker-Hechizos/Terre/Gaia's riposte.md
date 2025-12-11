@@ -1,0 +1,5 @@
+[[Terre]]
+[[Transmutación]]
+[[Abjuración]]
+[[Contínuo]]
+[[Concentración]]

@@ -1,0 +1,4 @@
+[[Runik]]
+[[Contínuo]]
+[[Abjuración]]
+[[Evocación]]

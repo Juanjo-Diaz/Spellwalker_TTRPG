@@ -1,0 +1,4 @@
+[[Onírico]]
+[[Contínuo]]
+[[Concentración]]
+[[Encantamiento]]

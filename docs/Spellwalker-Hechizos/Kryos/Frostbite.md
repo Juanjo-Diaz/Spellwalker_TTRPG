@@ -1,0 +1,4 @@
+
+[[Kryos]]
+[[Contínuo]]
+[[Evocación]]

@@ -1,0 +1,5 @@
+[[Piros]]
+[[Canalización]]
+[[Contínuo]]
+[[Abjuración]]
+[[Invocación]]
