@@ -1,0 +1,3 @@
+[[Gravitas]]
+[[Evocación]]
+[[Cargable]]

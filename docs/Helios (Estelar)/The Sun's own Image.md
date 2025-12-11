@@ -1,0 +1,5 @@
+[[Helios]]
+[[Evocación]]
+[[Canalización]]
+[[Lento]]
+[[Cargable]]

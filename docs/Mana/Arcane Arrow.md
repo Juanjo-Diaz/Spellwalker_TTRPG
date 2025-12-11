@@ -1,0 +1,2 @@
+[[Mana]]
+[[Evocación]]

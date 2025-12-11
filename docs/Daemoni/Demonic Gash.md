@@ -1,0 +1,4 @@
+[[Cargable]]
+[[Lento]]
+[[Daemoni]]
+[[Evocación]]

@@ -1,0 +1,3 @@
+[[Planar]]
+[[Evocación]]
+[[Rápido]]
