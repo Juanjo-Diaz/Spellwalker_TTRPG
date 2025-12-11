@@ -1,2 +1,0 @@
-[[Planar]]
-[[Transmutación]]

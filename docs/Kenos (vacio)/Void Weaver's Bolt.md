@@ -1,3 +1,0 @@
-[[Kenos]]
-[[Evocación]]
-[[Cargable]]

@@ -1,4 +1,0 @@
-[[Icor]]
-[[Abjuración]]
-[[Concentración]]
-[[Canalización]]

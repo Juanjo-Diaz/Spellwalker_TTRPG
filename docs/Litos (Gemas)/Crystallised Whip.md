@@ -1,3 +1,0 @@
-[[Litos]]
-[[Contínuo]]
-[[Evocación]]

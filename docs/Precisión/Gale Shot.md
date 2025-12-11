@@ -1,4 +1,0 @@
-[[Precisión]]
-[[Rápido]]
-[[Transmutación]]
-[[Evocación]]

@@ -1,2 +1,0 @@
-[[Bestial]]
-[[Invocación]]

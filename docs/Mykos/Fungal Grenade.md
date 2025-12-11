@@ -1,4 +1,0 @@
-[[Mykos]]
-[[Lento]]
-[[Invocación]]
-[[Evocación]]

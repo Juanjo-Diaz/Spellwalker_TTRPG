@@ -1,3 +1,0 @@
-[[Icor]]
-[[Cargable]]
-[[Invocación]]

@@ -1,2 +1,0 @@
-[[Aqua]]
-[[Evocación]]

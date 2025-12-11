@@ -1,4 +1,0 @@
-[[Argus]]
-[[Concentración]]
-[[Abjuración]]
-

@@ -1,3 +1,0 @@
-[[Arsenus]]
-[[Canalización]]
-[[Alquímia]]

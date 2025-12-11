@@ -1,5 +1,0 @@
-[[Psykos]]
-[[Contínuo]]
-[[Encantamiento]]
-***
-[[Concentración]]

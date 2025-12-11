@@ -1,4 +1,0 @@
-[[Ferrum]]
-[[Contínuo]]
-[[Concentración]]
-[[Abjuración]]

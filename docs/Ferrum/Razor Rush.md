@@ -1,3 +1,0 @@
-[[Ferrum]]
-[[Rápido]]
-[[Evocación]]

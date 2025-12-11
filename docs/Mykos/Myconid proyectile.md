@@ -1,3 +1,0 @@
-[[Mykos]]
-[[Cargable]]
-[[Evocación]]

@@ -1,3 +1,0 @@
-[[Marcial]]
-[[Rápido]]
-[[Evocación]]

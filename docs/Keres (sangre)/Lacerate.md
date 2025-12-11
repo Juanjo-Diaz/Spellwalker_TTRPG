@@ -1,3 +1,0 @@
-[[Keres]]
-[[Evocación]]
-[[Cargable]]

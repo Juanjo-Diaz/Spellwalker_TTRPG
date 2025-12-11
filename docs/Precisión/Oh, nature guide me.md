@@ -1,4 +1,0 @@
-[[Precisión]]
-[[Contínuo]]
-[[Rápido]]
-[[Divinación]]

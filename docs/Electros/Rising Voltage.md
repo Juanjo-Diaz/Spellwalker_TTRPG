@@ -1,3 +1,0 @@
-[[Electros]]
-[[Canalización]]
-[[Evocación]]

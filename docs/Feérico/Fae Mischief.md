@@ -1,3 +1,0 @@
-[[Feérico]]
-[[Contínuo]]
-[[Encantamiento]]

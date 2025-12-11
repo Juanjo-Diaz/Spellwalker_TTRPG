@@ -1,3 +1,0 @@
-[[Helios]]
-[[Contínuo]]
-[[Evocación]]

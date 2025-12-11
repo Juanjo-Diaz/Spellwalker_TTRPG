@@ -1,3 +1,0 @@
-[[Piros]]
-[[Cargable]]
-[[Evocación]]

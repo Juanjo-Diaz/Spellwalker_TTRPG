@@ -1,4 +1,0 @@
-[[Litos]]
-[[Transmutación]]
-[[Concentración]]
-[[Contínuo]]

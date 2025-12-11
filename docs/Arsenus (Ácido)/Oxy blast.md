@@ -1,3 +1,0 @@
-[[Arsenus]]
-[[Evocación]]
-[[Cargable]]

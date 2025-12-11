@@ -1,4 +1,0 @@
-[[Transmutación]]
-[[Argus]]
-[[Contínuo]]
-[[Modificador]]

@@ -1,3 +1,0 @@
-[[Evocación]]
-[[Kryos]]
-[[Rápido]]

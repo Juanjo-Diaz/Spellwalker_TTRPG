@@ -1,4 +1,0 @@
-[[Daemoni]]
-[[Encantamiento]]
-[[Contínuo]]
-[[Lento]]

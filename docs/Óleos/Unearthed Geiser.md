@@ -1,3 +1,0 @@
-[[Óleos]]
-[[Canalización]]
-[[Transmutación]]

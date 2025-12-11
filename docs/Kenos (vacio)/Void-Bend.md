@@ -1,2 +1,0 @@
-[[Kenos]]
-[[Transmutación]]

@@ -1,4 +1,0 @@
-[[Luxos]]
-[[Rápido]]
-[[Abjuración]]
-[[Evocación]]

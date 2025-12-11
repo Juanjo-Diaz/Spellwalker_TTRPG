@@ -1,3 +1,0 @@
-[[Ossis]]
-[[Rápido]]
-[[Evocación]]

@@ -1,3 +1,0 @@
-[[Feérico]]
-[[Rápido]]
-[[Transmutación]]

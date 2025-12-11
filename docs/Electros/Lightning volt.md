@@ -1,3 +1,0 @@
-[[Cargable]]
-[[Electros]]
-[[Evocación]]

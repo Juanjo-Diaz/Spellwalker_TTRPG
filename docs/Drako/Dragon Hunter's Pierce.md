@@ -1,3 +1,0 @@
-[[Drako]]
-[[Evocación]]
-[[Contínuo]]

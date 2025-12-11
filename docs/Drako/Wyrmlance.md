@@ -1,3 +1,0 @@
-[[Cargable]]
-[[Drako]]
-[[Evocación]]

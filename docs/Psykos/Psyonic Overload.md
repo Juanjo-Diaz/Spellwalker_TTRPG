@@ -1,3 +1,0 @@
-[[Psykos]]
-[[Evocación]] 
-[[Encantamiento]]

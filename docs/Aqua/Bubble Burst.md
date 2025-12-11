@@ -1,3 +1,0 @@
-[[Aqua]]
-[[Rápido]]
-[[Evocación]]

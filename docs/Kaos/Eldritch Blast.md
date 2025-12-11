@@ -1,3 +1,0 @@
-[[Kaos]]
-[[Invocación]]
-[[Evocación]]
